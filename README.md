@@ -23,9 +23,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-[Solution URL:](https://github.come/solipsisms/qrcode)
+[Solution URL](https://github.come/solipsisms/qrcode)
 
-[Live Site URL:](https://solipsisms.github.io/qrcode/)
+[Live Site URL](https://solipsisms.github.io/qrcode/)
 
 ## My process
 
